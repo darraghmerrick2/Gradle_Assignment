@@ -5,6 +5,7 @@ package A1_Gradle;
 
 public class Library {
     public boolean someLibraryMethod() {
+        System.out.println("HelloWOrls");
         return true;
     }
 }
